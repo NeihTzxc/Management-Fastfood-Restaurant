@@ -1,0 +1,74 @@
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\QLCHTAN v2.exe.config
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\QLCHTAN v2.exe
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\QLCHTAN v2.pdb
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.csprojAssemblyReference.cache
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.fLogin.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.Properties.Resources.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.csproj.GenerateResource.cache
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.csproj.CoreCompileInputs.cache
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.exe
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.pdb
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.fAccountProfile.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.fAdmin.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.fTableManager.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\EnvDTE.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\stdole.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\Microsoft.MSXML.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN v2.csproj.CopyComplete
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.Bill.resources
+D:\VS2017\QLCHTAN v2\QLCHTAN v2\obj\Debug\QLCHTAN_v2.Form2.resources
